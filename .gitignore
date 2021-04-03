@@ -1,0 +1,15 @@
+.idea/
+dist/
+node_modules/
+coverage
+npm-debug.log
+.DS_Store
+/config/ignorefile.js
+.rain
+.cache/
+.stylelintcache
+local/
+.env.local
+.cache-loader
+yarn-error.log
+.vscode/
